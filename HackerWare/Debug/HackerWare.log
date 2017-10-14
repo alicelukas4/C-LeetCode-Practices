@@ -1,0 +1,6 @@
+﻿  Test1.c
+c:\users\alice\desktop\programmingfiles\c-leetcode-practices\hackerware\test1.c(30): warning C4101: 'j': unreferenced local variable
+c:\users\alice\desktop\programmingfiles\c-leetcode-practices\hackerware\test1.c(30): warning C4101: 'i': unreferenced local variable
+c:\users\alice\desktop\programmingfiles\c-leetcode-practices\hackerware\test1.c(83): warning C4101: 'i': unreferenced local variable
+  HackerWare.vcxproj -> C:\Users\Alice\Desktop\ProgrammingFiles\C-LeetCode-Practices\Debug\HackerWare.exe
+  HackerWare.vcxproj -> C:\Users\Alice\Desktop\ProgrammingFiles\C-LeetCode-Practices\Debug\HackerWare.pdb (Partial PDB)
